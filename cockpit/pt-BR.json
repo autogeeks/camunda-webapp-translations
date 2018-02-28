@@ -749,7 +749,7 @@
     "PLUGIN_JOB_RETRY_BTN_RETRY": "Tente novamente",
     "PLUGIN_JOB_RETRY_BTN_OK": "OK",
     "PLUGIN_INCIDENTS_LABEL": "Incidentes",
-    "PLUGIN_CALLED_PROCESS_INSTANCE_LABEL": "Intâncias de processo chamadas",
+    "PLUGIN_CALLED_PROCESS_INSTANCE_LABEL": "Instâncias de processo chamadas",
     "PLUGIN_EXTERNAL_TASKS_LABEL": "Tarefas Externas",
     "PLUGIN_PROCESS_INSTANCES_LABEL": "Instâncias do processo",
     "PLUGIN_CALLED_PROCESS_DEFINITIONS_LABEL": "Definições de processo chamadas",
